@@ -1,1 +1,2 @@
-# Nimaime.EPUB.ASIN2Calibre
+# ASIN2Calibre
+本工具用于为KindleUnpackS导出的EPUB文件添加AMAZON_JP书号（需要EPUB文件包含ASIN标签，且已安装Calibre）
